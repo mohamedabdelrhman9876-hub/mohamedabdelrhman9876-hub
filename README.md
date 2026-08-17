@@ -1,7 +1,6 @@
+# <span style="background-color: #FFD700; color: #000000; padding: 5px 15px; border-radius: 6px;">Hi there, I'm Mohamed Abdelrhman 👋</span>
 
-# 💻 Hi there, I'm Mohamed Abdelrhman 👋
-
-### <p align="left" style="color: #1E3A8A;">🚀 Front-End Web Developer</p>
+### 🚀 Front-End Web Developer
 
 ---
 
