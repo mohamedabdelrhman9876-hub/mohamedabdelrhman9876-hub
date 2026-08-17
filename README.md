@@ -1,19 +1,18 @@
 <div align="center">
 
-# <span style="color: #1976D2;">👋 Hello, I'm **Mohamed Abdelrhman**</span>
+<div style="background-color: #0D1B2A; padding: 20px; border-radius: 10px; display: inline-block;">
+  <h1 style="color: #4CC9F0; margin: 0;">👋 Hello, I'm Mohamed Abdelrhman</h1>
+  <h3 style="color: #E0FBFC; margin: 5px 0 0 0;">Front-End Web Developer</h3>
+</div>
 
-### **Front-End Web Developer**
+</div>
 
 ---
 
 ### 👨‍💻 **About Me**
-<div align="left" style="width: 80%; margin: auto;">
 * 🚀 A passionate Front-End Web Developer dedicated to building clean, responsive, and modern web applications.
 * 📚 Continuously improving my skills, exploring computer science fundamentals, and mastering modern web technologies.
 * 🎯 Focused on writing efficient code and creating amazing user interfaces.
-</div>
-
----
 
 ### 🛠️ **My Tech Stack & Tools:**
 
@@ -42,4 +41,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-</div>
